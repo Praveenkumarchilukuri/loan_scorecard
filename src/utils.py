@@ -50,7 +50,7 @@ FEATURES = [
 
 TARGET = "target"
 
-# ── Scorecard scaling parameters ──────────────────────────────────────────────
+# ── Scorecard scaling parameters ───────────────────────────────────────────
 BASE_SCORE = 600
 BASE_ODDS  = 1.0        # p_good / p_bad at base score (1:1)
 PDO        = 20         # Points to Double the Odds
